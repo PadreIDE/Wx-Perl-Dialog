@@ -25,7 +25,7 @@ install_share  'eg';
 
 homepage       'http://padre.perlide.org/';
 bugtracker     'http://padre.perlide.org/';
-repository     'http://svn.perlide.org/padre/trunk/Wx-Perl-Dialog';
+repository     'https://github.com/PadreIDE/Wx-Perl-Dialog';
 #mailinglist    'http://mail.perlide.org/mailman/listinfo/padre-dev';
  
 WriteAll;
